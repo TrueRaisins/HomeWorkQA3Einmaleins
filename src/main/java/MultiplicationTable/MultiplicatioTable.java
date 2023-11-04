@@ -1,9 +1,9 @@
-package Einmaleins;
+package MultiplicationTable;
 
-public class Einmaleins {
+public class MultiplicatioTable {
     private int size = 10;
 
-    public Einmaleins(int size) {
+    public MultiplicatioTable(int size) {
         this.size = size;
     }
 
